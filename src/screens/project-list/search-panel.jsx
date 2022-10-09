@@ -3,8 +3,6 @@ import React, { useEffect, useState } from 'react'
 export default function SearchPanel({ param, setParam,users }) {
 
 
-
-
   return (
     <form>
       <div>
